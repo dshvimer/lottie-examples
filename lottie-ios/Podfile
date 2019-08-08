@@ -1,0 +1,3 @@
+target 'lottie-ios' do
+  pod 'lottie-ios'
+end
